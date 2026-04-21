@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="140" viewBox="0 0 560 140" fill="none">
+  <rect width="560" height="140" fill="#0A0D0B"></rect>
+  <g transform="translate(40, 38)">
+    <svg width="64" height="64" viewBox="0 0 64 64" fill="none">
+      <rect x="7" y="5" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="18" y="5" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="29" y="5" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="40" y="5" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="51" y="5" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="7" y="16" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="18" y="16" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="29" y="16" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="40" y="16" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="51" y="16" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="7" y="27" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="18" y="27" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="29" y="27" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="40" y="27" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="51" y="27" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="7" y="38" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="18" y="38" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="29" y="38" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="40" y="38" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="51" y="38" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="7" y="49" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="18" y="49" width="9" height="9" rx="1.5" fill="rgba(255,255,255,0.22)"></rect>
+  <rect x="29" y="49" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="40" y="49" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="51" y="49" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="7" y="60" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="18" y="60" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="29" y="60" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="40" y="60" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+  <rect x="51" y="60" width="9" height="9" rx="1.5" fill="#FFFFFF"></rect>
+    </svg>
+  </g>
+  <text x="124" y="88" font-family="Geist, Inter, -apple-system, system-ui, sans-serif" font-size="58" font-weight="700" letter-spacing="-2" fill="#FFFFFF">Growmatic</text>
+</svg>
